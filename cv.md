@@ -6,13 +6,39 @@
 
 ---
 
-**Phone:** +7 978 7610478
-**E-mail:** alekseymalinovskij@gmail.com
-**Telegram:** [@malinovskiy_aleksey](https://t.me/malinovskiy_aleksey)
-**LinkedIn:** [malinovskiy-aleksey](https://www.linkedin.com/in/aleksei-malinovskiy/)
+**Phone:** +7 978 7610478<br>
+**E-mail:** alekseymalinovskij@gmail.com<br>
+**Telegram:** [@malinovskiy_aleksey](https://t.me/malinovskiy_aleksey)<br>
+**LinkedIn:** [malinovskiy-aleksey](https://www.linkedin.com/in/aleksei-malinovskiy/)<br>
 **Discord:** [Aleksey M](@alekseymalinovskij)
 
-### Education
+### About Myself:
+
+---
+
+**Hi! My name is Alexei, I am 39 years old. I work as a content manager and sometimes take orders to create websites. I am fond of HTML/ CSS, music, travel. I want to learn javascript and become a frontend developer and find a job that will bring me pleasure.**
+
+### Skills:
+
+---
+
++ HTML
++ CSS
++ JavaScrip (Basic)
++ Git/GitHub
++ Figma, Zeplin, Photoshop
+
+### Code Examples:
+
+---
+
+```
+function filter_list(l) {
+  return l.filter(function(v) {return typeof v == 'number'})
+}
+```
+
+### Education:
 
 ---
 
@@ -26,7 +52,7 @@
 
 **Taurida National Univercity, Ukraine** - Geographer, Geography teacher
 
-### Languages
+### Languages:
 
 ---
 
