@@ -1,6 +1,4 @@
-# Malinovskii Aleksei #
-
----
+# Malinovskii Aleksei
 
 ### Contact information:
 
@@ -16,7 +14,7 @@
 
 ---
 
-**Hi! My name is Alexei, I am 39 years old. I work as a content manager and sometimes take orders to create websites. I am fond of HTML/ CSS, music, travel. I want to learn javascript and become a frontend developer and find a job that will bring me pleasure.**
+Hi! My name is Alexei, I am 39 years old. I work as a content manager and sometimes take orders to create websites. I am fond of HTML/ CSS, music, travel. I want to learn javascript and become a frontend developer and find a job that will bring me pleasure.
 
 ### Skills:
 
@@ -31,6 +29,8 @@
 ### Code Examples:
 
 ---
+
+**KATA from CODEWARS:** Create a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out
 
 ```
 function filter_list(l) {
