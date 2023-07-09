@@ -157,3 +157,32 @@ img {
 		margin: 0 auto;
 	}
 }
+
+
+
+.page-footer {
+	background: #333e48;
+	padding: 30px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+}
+.copy-block p {
+	color: #ffffff;
+}
+@media screen and (max-width: 767px) {
+	.page-footer {
+		-ms-flex-direction: column;
+		flex-direction: column;
+	}
+	.copy-block {
+		margin-top: 30px;
+		margin-bottom: 30px;
+	}
+}
