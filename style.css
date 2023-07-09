@@ -195,7 +195,7 @@ img {
     display: block;
     position: relative;
     padding-left: 30px;
-    margin-bottom: 32px;
+    margin-bottom: 25px;
 }
 .page-list li::before {
     display: block;
